@@ -1,0 +1,36 @@
+body {
+  background-image: linear-gradient(#95847B, #8C6C5B);
+}
+
+#topic, #summary, #action {
+  color: #D53A30;
+  background-color: #4E5D62;
+  font-family: Pacifico;
+  height: 50px;
+  font-size: 24px;
+  margin-left: 200px;
+  width: 30%;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.pacifico-regular {
+font-family: "Pacifico", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+#topictxt{
+  margin-left: 200px;
+  font-size: 24pt;
+  font-family: Pacifico;
+  color: #D5D1C9;
+}
+
+#sumtxt, #actiontxt, #sourcetxt {
+  margin-left: 200px;
+  font-size: 12pt;
+  font-family: Pacifico;
+  color: #D5D1C9;
+}
+
