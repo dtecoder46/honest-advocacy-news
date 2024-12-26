@@ -11,5 +11,5 @@ function text3() {
 }
 
 function text4() {
-    document.getElementById("actiontxt").innerHTML = "msn: https://www.msn.com/en-us/technology/software/honey-s-deal-hunting-browser-extension-is-accused-of-ripping-off-customers-and-youtubers/ar-AA1wojxM"
+    document.getElementById("sourcetxt").innerHTML = "msn: https://www.msn.com/en-us/technology/software/honey-s-deal-hunting-browser-extension-is-accused-of-ripping-off-customers-and-youtubers/ar-AA1wojxM"
 }
